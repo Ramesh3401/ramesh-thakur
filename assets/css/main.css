@@ -882,7 +882,7 @@ hr {
 	left: -10vw;
 	top: -20vh;
 	width: 120vw;
-	height: 120vh;
+	height: 88vh;
 	background: #181e27;
 }
 
@@ -899,7 +899,7 @@ hr {
 .preloader .spinner-logo {
 	position: relative;
 	margin: 0 auto;
-	width: 200px:
+	width: 200px;
 	font-size: 0;
 }
 
@@ -5579,11 +5579,11 @@ body.light-skin button:focus {
 	border-color: #1c2528;
 }
 
-body.light-skin .header .logo img,
+/*body.light-skin .header .logo img,
 body.light-skin .preloader .spinner-logo img,
 body.light-skin .profile-box .signature img {
 	filter: brightness(1) invert(1);
-}
+}*/
 
 @media only screen and (max-width: 767px) {
 	body.light-skin .header .cart-btn.active .cart-icon {
